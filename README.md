@@ -3,7 +3,7 @@
 A simple and interactive Quiz Web Application built using HTML, CSS, and JavaScript.
 This project allows users to test their knowledge by answering multiple-choice questions and getting instant results.
 🚀 Live Demo
-👉 https://roba-belay.github.io/Quiz/⁠�
+👉 https://roba-belay.github.io/Quiz/
 ✨ Features
 ❓ Multiple-choice questions
 ✔ Instant answer selection
